@@ -40,8 +40,8 @@ while True:
 
 ```
 
-## OUPUT
+## OUTPUT
 ![output-2](https://github.com/user-attachments/assets/dd263751-b867-41cb-9891-f099418a7732)
-## OUPUT
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
